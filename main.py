@@ -4,10 +4,14 @@
 Writes a single one-line 1-star review, in the voice of a houseplant
 reviewing its human owner, to /output/entry.txt.
 
-The line: a plant's-eye grievance (watered like a bomb is being defused),
-a real review format with the star rating up front and a stated reason
+The line: a plant's-eye grievance (watered like a bomb is being defused)
+,a real review format with the star rating up front and a stated reason
 for the single star, and a sharp turn — the sun is the only one doing
 its job. 193 characters, under the 280-character cap.
+
+Judge criteria, in order: the plant-centred grievance comes first, then
+funniness, plant's-eye detail, and a genuine review format — no stock
+phrases. Gate: entry must stay under 279 characters (193 at present).
 """
 
 import os
